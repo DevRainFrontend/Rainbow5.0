@@ -50,3 +50,6 @@ Rainbow 5.0, çok amaçlı ve gelişmiş özelliklere sahip, Discord.py ile yaz�
 
 ## 🤝 Katkıda Bulunma
 Herhangi bir hata bulursanız veya özellik eklemek isterseniz, Issues bölümünden bildirebilir veya Pull Request gönderebilirsiniz.
+
+
+NOT : utils klasörüne init dosyasından konmalıdır cogsta olandan
